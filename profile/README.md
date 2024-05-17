@@ -6,14 +6,14 @@
 
 </br>
 
+## 🎉 프로젝트
+
+- **2023 [세종대학교](http://www.sejong.ac.kr) 캡스톤 디자인  (2023.03)** | 완성 🔥
+- **세종대학교 2023 제15회 창의설계경진대회** | 우수상 🏆 
+
 ## 🎦 시연 영상
 
 - [<img width="100" alt="image" src="https://github.com/2023-9Capstone/.github/assets/77824364/6bc0a1aa-bb48-4df0-baec-9c703ded6c12" width="50px;">](https://www.youtube.com/watch?v=zbB5P4mDULg)
-
-
-## 🎉 프로젝트
-
-- **2023 [세종대학교](http://www.sejong.ac.kr) 캡스톤 디자인  (2023.03)** | 진행중 🔥
 
 
 ## 🌈 기술 스택
