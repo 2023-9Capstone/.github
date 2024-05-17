@@ -4,7 +4,7 @@
 
 <h3 align="center">딥러닝을 이용한 색각 이상자를 위한 혼동색 영역 분류 알고리즘 개발 및 색상 보정</h3>
 
-<table>
+<table align="center">
 <tr>
 <td align="center">
 <img width="400" alt="image" src="https://github.com/2023-9Capstone/.github/assets/77824364/7d5425a3-2a53-4d98-b68e-d9a6c7cdc014"><br/>
