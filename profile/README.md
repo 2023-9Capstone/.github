@@ -15,12 +15,12 @@
 
 - [<img width="100" alt="image" src="https://github.com/2023-9Capstone/.github/assets/77824364/6bc0a1aa-bb48-4df0-baec-9c703ded6c12" width="50px;">](https://www.youtube.com/watch?v=zbB5P4mDULg)
 
-<sub>
+<td align="center">
 <img width="400" alt="image" src="https://github.com/2023-9Capstone/.github/assets/77824364/7d5425a3-2a53-4d98-b68e-d9a6c7cdc014">
-<b>정상인 시각</b></sub>
-<sub>
+<sub><b>정상인 시각</b></sub></td>
+<td align="center">
 <img width="400" alt="image" src="https://github.com/2023-9Capstone/.github/assets/77824364/b10ab85f-ca2d-4166-b4ec-5a63a7aef351">
-<b>색각이상자 시각</b></sub>
+<sub><b>색각이상자 시각</b></sub></td>
 
 
 ## 🌈 기술 스택
