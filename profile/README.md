@@ -6,6 +6,11 @@
 
 </br>
 
+## 🎦 시연 영상
+
+- **[유튜브](https://www.youtube.com/watch?v=zbB5P4mDULg)
+
+
 ## 🎉 프로젝트
 
 - **2023 [세종대학교](http://www.sejong.ac.kr) 캡스톤 디자인  (2023.03)** | 진행중 🔥
